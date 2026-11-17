@@ -12,7 +12,9 @@ finché sono vuoti le bozze escono con un segnaposto.
 ## Who I am (Chi siamo)
 
 - **Name:** FLOATING
-- **Handle:** {{handle Instagram}} · TikTok: {{handle TikTok}}
+- **Handle:** YouTube: canale "Floatinghub" · Instagram: {{handle}} ·
+  TikTok: {{handle}}
+- **Link:** linktr.ee/floating.hub
 - **What I do, in one sentence:** FLOATING è un hub creativo per la cultura
   giovanile: pill brevi su quello che succede nella nostra cultura e un
   podcast con ospiti, storie e approfondimenti.
@@ -51,6 +53,21 @@ finché sono vuoti le bozze escono con un segnaposto.
 - **Pace:** {{parole al minuto: cronometratevi leggendo uno script.
   Serve a `beats.py --wpm`}}
 
+## Visual style (Stile visivo, dal canale YouTube)
+
+- **Testo a schermo negli Short:** 2-4 parole per card, maiuscolo, font
+  bold, bianco con la parola chiave in **arancione**, in basso al centro,
+  sottotitoli a scorrimento sul parlato (es. "L'ASPORTO", "PIÙ FACILE
+  TROVARE", "CACCIA L'ALCATEL CACCIA").
+- **Elementi grafici sovrapposti** quando servono: classifiche numerate
+  (1-5 con l'immagine del prodotto), foto della persona citata.
+- **Set del podcast:** parete con poster e piante, divano rosso, ospiti e
+  conduttori in streetwear (cappellini, catene, t-shirt).
+- **Copertine del podcast:** titolo in maiuscolo arancione/giallo con
+  contorno, volti dei partecipanti, "FLOATING PODCAST EP.N".
+- **Titoli YouTube:** domanda o tema forte in MAIUSCOLO + " - Floating
+  Podcast ep.N".
+
 ## My positions (Le nostre posizioni)
 
 Tre-cinque cose in cui FLOATING crede e che parte del pubblico non condivide.
@@ -74,8 +91,21 @@ Da qui nascono le pill che fanno discutere.
 Numeri, risultati e storie reali che possiamo firmare. Le skill non ne
 inventano: se questa sezione è vuota, le bozze escono con `{{your number}}`.
 
-- {{ospiti avuti finora}}
-- {{numeri del profilo / puntate / ascolti}}
+Dal canale YouTube "Floatinghub" (screenshot del 2026-11-17, visualizzazioni
+a quella data):
+
+| contenuto | durata | views | uscita |
+| --- | --- | --- | --- |
+| FLOATING - THE TRAILER | 1:28 | 53 | ~6 mesi fa |
+| SI VIVE MEGLIO A NAPOLI O A MILANO? - Floating Podcast ep.1 | 41:09 | 893 | ~6 mesi fa |
+| COME APPROCCIARE UNA RAGAZZA NEL 2026 - Floating Podcast ep.2 | 40:48 | 458 | ~5 mesi fa |
+| I SACRIFICI DIETRO LO SMASH BURGER PERFETTO - Floating Podcast (ospite: "Mo' Magn…", {{nome completo}}) | 42:20 | 468 | ~5 mesi fa |
+
+Short più recenti (views): 358 · 266 · 1,4K · 1,1K · 1K · 1,3K · 1,6K ·
+1,4K · 1,2K. Mediana ~1,2K. Il migliore: "INCONTRI" (1,6K), clip della
+puntata sul rimorchiare.
+
+- {{numeri del profilo Instagram / TikTok}}
 - {{collaborazioni già fatte}}
 
 ## The ask (La richiesta)
